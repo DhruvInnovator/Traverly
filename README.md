@@ -1,8 +1,6 @@
-# Tours-Booking App
-
+#Traverly
 ## Live Preview Link
 
-[https://tours-booking-rental-app.vercel.app/]
 
 ### Install packages
 
