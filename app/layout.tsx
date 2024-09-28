@@ -12,7 +12,7 @@ import ToasterProvider from "./providers/ToasterProvider";
 import getCurrentUser from "./actions/getCurrentUser";
 
 export const metadata = {
-  title: "Travel Homes & Rentals - Tours-Booking",
+  title: "Traverly- Book the perfect place to stay anywhere in the world",
   description:
     "Book the perfect place to stay anywhere in the world with Tours",
 };
